@@ -3,7 +3,7 @@ Comprehensive mesurement of racial segregation across Miami-Dade County Census T
 
 # **Segregation Metrics and Housing Equity Repository**
 
-This repository analyzes segregation patterns and quantifies the impact of housing policies using advanced metrics and geospatial analysis. It supports fair housing claims and evaluates the impact of preemption laws like Florida’s Live Local Act (LLA) on housing equity.
+This repository is a comprehensive tool for analyzing segregation patterns and quantifying the impact of housing policies. It uses advanced statistical and geospatial metrics to support fair housing claims and evaluate the impact of preemption laws like Florida’s Live Local Act (LLA) on housing equity. This repository aims to provide actionable insights for researchers, policymakers, and advocates.
 
 ---
 
