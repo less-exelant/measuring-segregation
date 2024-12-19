@@ -6,9 +6,10 @@ Comprehensive mesurement of racial segregation across Miami-Dade County Census T
 This repository is a comprehensive tool for analyzing segregation patterns and quantifying the impact of housing policies. It uses advanced statistical and geospatial metrics to support fair housing claims and evaluate the impact of preemption laws like Florida’s Live Local Act (LLA) on housing equity. This repository aims to provide actionable insights for researchers, policymakers, and advocates.
 
 For more information on measuring segregation, please refer to:
-- [The Urban Institute](https://www.urban.org/research/data-methods/data-analysis/quantitative-data-analysis/segregation-measures)
-- [The U.S. Census](https://www.census.gov/topics/housing/housing-patterns/guidance/appendix-b.html)
-- [HUD Cityscape](https://www.huduser.gov/portal/periodicals/cityscpe/vol17num1/ch8.pdf)
+- [The Urban Institute: Quantitative Data Analysis of Segregation](https://www.urban.org/research/data-methods/data-analysis/quantitative-data-analysis/segregation-measures)
+- [The U.S. Census: Measures of Residential Segregation](https://www.census.gov/topics/housing/housing-patterns/guidance/appendix-b.html)
+- [HUD Cityscape: Spatializing Segregation Measures](https://www.huduser.gov/portal/periodicals/cityscpe/vol17num1/ch8.pdf)
+- [PubMed Central: Measuring Segregation: An Activity Space Approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC3106997/)
 
 ---
 
